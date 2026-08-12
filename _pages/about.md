@@ -23,6 +23,12 @@ Education
 
 Publications
 ======
+* **[SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot](https://arxiv.org/abs/2608.09196)**<br>
+  Yuhao Cao, **Xiao Liu**, Yang Xie, Lu Liu, Haoyao Chen<br>
+  arXiv, 2026
+* **Air-Ground Robotic Collaborative Reconstruction by Cross-View Depth Completion in Large-Scale Environment**<br>
+  Yike Wu, Jidong Huang, **Xiao Liu**, Yuwei Li, Haoyao Chen<br>
+  **IROS**, 2026
 * **RGB-Thermal Visual Place Recognition via Vision Foundation Model**  
   Minghao Ye, **Xiao Liu**, Yu Wang, Lu Liu, Haoyao Chen  
   **IROS**, 2025  
@@ -38,9 +44,10 @@ Publications
 
 Honors & Awards
 ======
-* **Champion**, 2nd [CMU Vision-Language-Autonomy Challenge](https://www.ai-meets-autonomy.com/cmu-vla-challenge), IROS 2025
-* **4th Place**, Meituan 3rd [Low-Altitude Economy Flight Management Challenge](https://uav-challenge.meituan.com/#links), 10,000RMB Scholarship, IROS 2025
-* **Champion**,  Meituan 2nd [Low-Altitude Economy Flight Management Challenge](https://uav-challenge.meituan.com/#links), **100,000RMB** Scholarship, 2024
+* **Champion** (Team Leader), [ATEC2026 Online Competition](https://www.atecup.com/matchHomeRanklist/100017/rankList), 2026
+* **Champion** (Team Leader), 2nd [CMU Vision-Language-Autonomy Challenge](https://www.ai-meets-autonomy.com/cmu-vla-challenge), IROS 2025
+* **4th Place** (Team Leader), 3rd Meituan [Low-Altitude Economy Flight Management Challenge](https://uav-challenge.meituan.com/#links), 10,000RMB Scholarship, IROS 2025
+* **Champion**,  2nd Meituan [Low-Altitude Economy Flight Management Challenge](https://uav-challenge.meituan.com/#links), **100,000RMB** Scholarship, 2024
 * Outstanding Graduate of Heilongjiang Province, 2024
 * **[ETHz Robotics Summer School](https://robotics-summerschool.ethz.ch/previous_editions/summerschool2023/participants.html)**, 2023
 * Outstanding Graduate of HIT, 2021
