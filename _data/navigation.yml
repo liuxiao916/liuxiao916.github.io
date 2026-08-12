@@ -24,7 +24,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://liuxiao916.com
     
   # - title: "CV"
   #   url: /cv/
