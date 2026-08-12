@@ -23,7 +23,7 @@ Education
 
 Publications
 ======
-* **[SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot](https://arxiv.org/abs/2608.09196)**<br>
+* **SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot**<br>
   Yuhao Cao, **Xiao Liu**, Yang Xie, Lu Liu, Haoyao Chen<br>
   arXiv, 2026
 * **Air-Ground Robotic Collaborative Reconstruction by Cross-View Depth Completion in Large-Scale Environment**<br>
